@@ -6,7 +6,7 @@
 <b><i>System Requirements</i></b>
 - Minimum 4gb RAM
 - i7 Intel Processor 
-- 3gb Free Space
+- 4gb Free Space
 - ~~Internet Connection~~
 - Linux OS (Debian 10+/Ubuntu 18+)
 ---
