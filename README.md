@@ -21,7 +21,6 @@ cd && git clone https://github.com/MBHudson/CryptoWalletCracker.git && cd Crypto
 ---
 ---
 ### Notes:
-- The CPU limiter takes 20 seconds to startup after running the <i><b> "sudo cryptowalletcracker" </b></i> command.
-Without limiting the CPU usage all cores maintain 100% CPU usage risking damage to the user's device. It is possible 
+- Without limiting the CPU usage all cores maintain 100% CPU usage risking damage to the user's device. It is possible 
 for one or two cores to persist. In these events I have found it beneficial to simply close the terminal and restart 
-the script with the <i><b> "cryptowalletcracker" </b></i> command.
+the script with the <i><b> "cryptowalletcracker" </b></i> command. Using a tool such at <b><i>"htop"</i></b> is useful to see current state of CPU usage and ensures the script is running properly. (To install "sudo apt install htop")
