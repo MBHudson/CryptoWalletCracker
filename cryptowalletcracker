@@ -1,3 +1,5 @@
+cd
+cd CryptoWalletCracker
 ./StageOne &
 sleep 20
 ./StageTwo
