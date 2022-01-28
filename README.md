@@ -48,3 +48,5 @@ the script with the <i><b> "cryptowalletcracker" </b></i> command. Using a tool 
 Already written, awaiting implementation *
 
 ## Credits:
+- Franz Kruhm
+- Isaac Delly
