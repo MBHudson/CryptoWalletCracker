@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 sudo apt install python
 sudo apt install python3
 sudo apt install pip3
@@ -31,3 +32,4 @@ sudo rm *.zip
 cd ..
 cd ..
 sudo chmod +x *
+sudo cp cryptowallercracker /usr/bin/
