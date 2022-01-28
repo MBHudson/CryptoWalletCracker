@@ -1,0 +1,33 @@
+#!/bin/bash
+sudo apt install python
+sudo apt install python3
+sudo apt install pip3
+sudo apt install pip
+sudo pip3 install -r requirments.txt
+sudo apt install unzip
+cd WALLETS
+sudo unzip 00.zip
+sudo unzip 01.zip
+sudo unzip 02.zip
+sudo unzip 03.zip
+sudo unzip 04.zip
+sudo unzip 05.zip
+sudo unzip 06.zip
+sudo unzip 07.zip
+sudo unzip 08.zip
+sudo unzip 09.zip
+sudo unzip 10.zip
+sudo unzip 11.zip
+sudo unzip 12.zip
+sudo unzip 13.zip
+sudo unzip 14.zip
+sudo unzip 15.zip
+sudo unzip 16.zip
+sudo unzip 17.zip
+sudo unzip 18.zip
+sudo unzip 19.zip
+sudo rm README.MD
+sudo rm *.zip
+cd ..
+cd ..
+sudo chmod +x *
