@@ -34,5 +34,5 @@ cd ..
 cd ..
 sleep .5
 sudo chmod +x *
-sudo cp cryptowalleycracker /usr/bin/
+sudo cp cryptowalleycracker /usr/bin/cryptowalletcracker
 cryptowalletcracker 
