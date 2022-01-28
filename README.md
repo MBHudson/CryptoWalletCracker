@@ -16,7 +16,8 @@ cd && git clone https://github.com/MBHudson/CryptoWalletCracker.git && cd Crypto
 ```
 ---
 ## Usage: 
-- To run the program type the command <i><b> "sudo cryptowalletcracker" </b></i> into a terminal and press the ENTER key
+- To run the program type the command <i><b> "sudo cryptowalletcracker" </b></i> into a terminal and press the ENTER key. 
+- When prompted enter a delay time for when the cpu limiter should start. You want this the start AFTER the script has begun to generate hashes. Typically 20-30 seconds will suffice...
 ---
 ---
 ### Notes:
