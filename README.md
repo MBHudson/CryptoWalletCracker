@@ -36,4 +36,13 @@ the script with the <i><b> "cryptowalletcracker" </b></i> command. Using a tool 
 
 ## Todo:
 
+- [x] Add delay variable (01282002)
+- [ ] Add CPU% variable
+- [ ] Launch Menu
+- [ ] CC/CCV/Validator
+- [ ] TOR Relay/Node/Hidden Service*
+- [ ] Self-Propagating ProxyChains*
+- [ ] Hot/Cold Wallet Support
+- [ ] Bettercap jsinjection minner.js Tab-Minner*
+
 ## Credits:
