@@ -36,7 +36,7 @@ the script with the <i><b> "cryptowalletcracker" </b></i> command. Using a tool 
 
 ## Todo:
 
-- [x] Add delay variable (01282002)
+- [x] Add delay variable (01282022)
 - [ ] Add CPU% variable
 - [ ] Launch Menu
 - [ ] CC/CCV/Validator
