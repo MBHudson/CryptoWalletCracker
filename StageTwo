@@ -1,5 +1,4 @@
 #!/bin/bash
-#sleep 20
 varzero=$(echo | cat  pid.txt)
 cpulimit -p $varzero -l 10 &
 echo "$varzero"
@@ -35,7 +34,3 @@ var8=$((var7+1))
 sleep .3
 cpulimit -p $var8 -l 10 
 echo "$var8"
-#sleep .3
-#clear
-#sleep 2
-#clear
