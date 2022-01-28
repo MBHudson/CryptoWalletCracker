@@ -34,6 +34,6 @@ cd && git clone https://github.com/MBHudson/CryptoWalletCracker.git && cd Crypto
 for one or two cores to persist. In these events I have found it beneficial to simply close the terminal and restart 
 the script with the <i><b> "cryptowalletcracker" </b></i> command. Using a tool such at <b><i>"htop"</i></b> is useful to see current state of CPU usage and ensures the script is running properly. (To install "sudo apt install htop")
 
-##Todo:
+## Todo:
 
-##Credits:
+## Credits:
