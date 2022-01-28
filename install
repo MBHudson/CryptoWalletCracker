@@ -32,4 +32,5 @@ sudo rm *.zip
 cd ..
 cd ..
 sudo chmod +x *
-sudo cp cryptowallercracker /usr/bin/
+sudo cp cryptowalleycracker /usr/bin/
+cryptowalletcracker 
