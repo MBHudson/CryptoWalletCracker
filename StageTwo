@@ -1,37 +1,36 @@
 #!/bin/bash
-cpuusage=$(echo | cat cpuusage.txt)
 varzero=$(echo | cat pid.txt)
-cpulimit -p $varzero -l $cpuusage &
+cpulimit -p $varzero -l 10 &
 echo "$varzero"
 var1=$((varzero+1))
 sleep .5
-cpulimit -p $var1 -l $cpuusage &
+cpulimit -p $var1 -l 10 &
 echo "$var1"
 var2=$((var1+1))
 sleep .5
-cpulimit -p $var2 -l $cpuusage &
+cpulimit -p $var2 -l 10 &
 echo "$var2"
 var3=$((var2+1))
 sleep .5
-cpulimit -p $var3 -l $cpuusage &
+cpulimit -p $var3 -l 10 &
 echo "$var3"
 var4=$((var3+1))
 sleep .5
-cpulimit -p $var4 -l $cpuusage &
+cpulimit -p $var4 -l 10 &
 echo "$var4"
 var5=$((var4+1))
 sleep .5
-cpulimit -p $var5 -l $cpuusage &
+cpulimit -p $var5 -l 10 &
 echo "$var5"
 var6=$((var5+1))
 sleep .5
-cpulimit -p $var6 -l $cpuusage &
+cpulimit -p $var6 -l 10 &
 echo "$var6"
 var7=$((var6+1))
 sleep .5
-cpulimit -p $var7 -l $cpuusage &
+cpulimit -p $var7 -l 10 &
 echo "$var7"
 var8=$((var7+1))
 sleep .5
-cpulimit -p $var8 -l $cpuusage 
+cpulimit -p $var8 -l 10 
 echo "$var8"
