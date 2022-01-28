@@ -3,11 +3,6 @@ cd
 cd CryptoWalletCracker
 echo "ENTER DELAY TIME IN SECONDS (ex: 20)"
 read delaytime
-clear
-echo "ENTER % of CPU RESOUCES ALLOWED (ex: 10, for 10% allowed CPU usage"
-read cpuusage
-echo "$spuusage" > cpuusage.txt
-clear
 ./StageOne &
 sleep $delaytime
 ./StageTwo
