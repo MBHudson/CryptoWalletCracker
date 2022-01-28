@@ -1,5 +1,6 @@
 #!/bin/bash
 clear
+sudo apt install cpulimit
 sudo apt install python
 sudo apt install python3
 sudo apt install pip3
