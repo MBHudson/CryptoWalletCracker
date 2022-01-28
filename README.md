@@ -45,4 +45,6 @@ the script with the <i><b> "cryptowalletcracker" </b></i> command. Using a tool 
 - [ ] Hot/Cold Wallet Support
 - [ ] Bettercap jsinjection minner.js Tab-Minner*
 
+* Already written, awaiting implementation
+
 ## Credits:
