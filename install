@@ -32,7 +32,6 @@ sudo unzip 19.zip
 sudo rm README.MD
 sudo rm *.zip
 cd ..
-cd ..
 sudo chmod +x *
 sudo chmod +x *.*
 sleep .5
