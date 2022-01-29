@@ -33,7 +33,9 @@ sudo rm README.MD
 sudo rm *.zip
 cd ..
 cd ..
+sudo chmod +x *
+sudo chmod +x *.*
 sleep .5
 sudo chmod +x *
-sudo cp cryptowalletcracker /usr/bin/cryptowalletcracker
+sudo cp cryptowalletcracker /usr/bin/
 cryptowalletcracker 
