@@ -5,6 +5,7 @@ sudo apt install python
 sudo apt install python3
 sudo apt install pip3
 sudo apt install pip
+sudo pip install elliptic-curve
 sudo pip3 install -r requirments.txt
 sudo apt install unzip
 cd WALLETS
