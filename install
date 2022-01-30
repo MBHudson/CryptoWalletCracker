@@ -29,6 +29,7 @@ sudo unzip 16.zip
 sudo unzip 17.zip
 sudo unzip 18.zip
 sudo unzip 19.zip
+rm *.zip
 sudo rm README.MD
 sudo rm *.zip
 cd ..
